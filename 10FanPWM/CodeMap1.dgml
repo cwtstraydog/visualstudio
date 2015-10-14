@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @2 @3 Member=(Name=btnSend_Click @5))" Category="CodeSchema_Method" Bounds="-178.85986617162,-767.356158920488,110.146666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="btnSend_Click" Icon="CodeSchema_Method" Label="btnSend_Click" Language="{B5E9BD33-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///C:/Users/JEmig/documents/visual studio 2013/Projects/10FanPWM/10FanPWM/Form1.vb&quot; StartLineNumber=191 StartCharacterOffset=16 EndLineNumber=191 EndCharacterOffset=16)" UseManualLocation="True" />
+    <Node Id="(@1 @2 @3 Member=(Name=dutycyclechecker @5))" Category="CodeSchema_Method" Bounds="249.991753338432,-569.582628755211,126.373333333333,25.96" CodeSchemaProperty_IsHideBySignature="True" CodeSchemaProperty_IsPrivate="True" DelayedCrossGroupLinksState="Fetched" Label="dutycyclechecker" UseManualLocation="True" />
+    <Node Id="(@1 @2 @3 Member=(Name=resetRecord @5))" Category="CodeSchema_Method" Bounds="59.4931548040633,-888.558277123187,99.1533333333334,25.96" CodeSchemaProperty_IsHideBySignature="True" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Label="resetRecord" UseManualLocation="True" />
+    <Node Id="(@1 @2 @3 Member=(Name=tenfanload @5))" Category="CodeSchema_Method" Bounds="-119.91014058431,-593.30852070785,92.8966666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="tenfanload" DelayedCrossGroupLinksState="Fetched" Icon="CodeSchema_Method" Label="tenfanload" Language="{B5E9BD33-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///C:/Users/JEmig/documents/visual studio 2013/Projects/10FanPWM/10FanPWM/Form1.vb&quot; StartLineNumber=1303 StartCharacterOffset=16 EndLineNumber=1303 EndCharacterOffset=16)" UseManualLocation="True" />
+    <Node Id="@10" Category="CodeSchema_Method" Bounds="83.3943329366048,-578.116260986328,106.94,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="set_Fanspeed" Icon="CodeSchema_Method" Label="set_Fanspeed" Language="{B5E9BD33-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///C:/Users/JEmig/documents/visual studio 2013/Projects/10FanPWM/10FanPWM/Form1.vb&quot; StartLineNumber=232 StartCharacterOffset=16 EndLineNumber=232 EndCharacterOffset=16)" UseManualLocation="True" />
+    <Node Id="@11" Category="CodeSchema_Method" Bounds="-23.9447973535796,-766.163878983711,98.13,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Timer1_Tick" DelayedCrossGroupLinksState="Fetched" Icon="CodeSchema_Method" Label="Timer1_Tick" Language="{B5E9BD33-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///C:/Users/JEmig/documents/visual studio 2013/Projects/10FanPWM/10FanPWM/Form1.vb&quot; StartLineNumber=1093 StartCharacterOffset=16 EndLineNumber=1093 EndCharacterOffset=16)" UseManualLocation="True" />
+    <Node Id="@6" Category="CodeSchema_Method" Bounds="194.107842610677,-878.05577179362,98.9033333333333,25.96" CodeSchemaProperty_IsHideBySignature="True" CodeSchemaProperty_IsPrivate="True" CommonLabel="btnGo_Click" DelayedCrossGroupLinksState="Fetched" Icon="CodeSchema_Method" Label="btnGo_Click" Language="{B5E9BD33-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///C:/Users/JEmig/documents/visual studio 2013/Projects/10FanPWM/10FanPWM/Form1.vb&quot; StartLineNumber=1384 StartCharacterOffset=16 EndLineNumber=1384 EndCharacterOffset=16)" UseManualLocation="True" />
+    <Node Id="@7" Category="CodeSchema_Method" Bounds="60.2965217081706,-822.09567179362,138.156666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="btnResetAuto_Click" DelayedCrossGroupLinksState="Fetched" Icon="CodeSchema_Method" Label="btnResetAuto_Click" Language="{B5E9BD33-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///C:/Users/JEmig/documents/visual studio 2013/Projects/10FanPWM/10FanPWM/Form1.vb&quot; StartLineNumber=1191 StartCharacterOffset=16 EndLineNumber=1191 EndCharacterOffset=16)" UseManualLocation="True" />
+    <Node Id="@8" Category="CodeSchema_Method" Bounds="412.162116702132,-849.177169773632,108.163333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="btnStop_Click" Icon="CodeSchema_Method" Label="btnStop_Click" Language="{B5E9BD33-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///C:/Users/JEmig/documents/visual studio 2013/Projects/10FanPWM/10FanPWM/Form1.vb&quot; StartLineNumber=1273 StartCharacterOffset=16 EndLineNumber=1273 EndCharacterOffset=16)" UseManualLocation="True" />
+    <Node Id="@9" Category="CodeSchema_Method" Bounds="162.579992581704,-658.051160814019,75.2333333333333,25.96" CodeSchemaProperty_IsHideBySignature="True" CodeSchemaProperty_IsPrivate="True" CommonLabel="cheater" DelayedCrossGroupLinksState="Fetched" Icon="CodeSchema_Method" Label="cheater" Language="{B5E9BD33-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=&quot;file:///C:/Users/JEmig/documents/visual studio 2013/Projects/10FanPWM/10FanPWM/Form1.vb&quot; StartLineNumber=276 StartCharacterOffset=16 EndLineNumber=276 EndCharacterOffset=16)" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="(@1 @2 @3 Member=(Name=btnSend_Click @5))" Target="@9" Category="CodeSchema_Calls" Bounds="-85.313431140421,-741.396129150391,240.481591486053,81.1333421859447" Weight="1" />
+    <Link Source="@11" Target="@10" Category="CodeSchema_Calls" Bounds="32.8341207232033,-740.184991552734,91.7183380697257,154.331882312108" Weight="4" />
+    <Link Source="@11" Target="@7" Category="CodeSchema_Calls" Bounds="49.302168285391,-791.888635046234,47.9608621737477,25.7436434934991" Weight="1" />
+    <Link Source="@11" Target="@8" Category="CodeSchema_Calls" Bounds="74.1851992034912,-824.353857711062,329.138802454083,61.9534177165248" Weight="1" />
+    <Link Source="@11" Target="@9" Category="CodeSchema_Calls" Bounds="46.1435256279717,-740.184991552734,125.371807766997,77.4057364642684" Weight="3" />
+    <Link Source="@6" Target="(@1 @2 @3 Member=(Name=dutycyclechecker @5))" Category="CodeSchema_Calls" Bounds="246.488949646231,-852.09577179362,61.7786813735326,273.733950260646" Weight="1" />
+    <Link Source="@6" Target="(@1 @2 @3 Member=(Name=resetRecord @5))" Category="CodeSchema_Calls" Bounds="167.619170742598,-871.006070387555,26.4886718680786,2.06854022187008" Weight="1" />
+    <Link Source="@6" Target="(@1 @2 @3 Member=(Name=tenfanload @5))" Bounds="-48.3907203674316,-852.105163574219,286.209583282471,253.493713378906" />
+    <Link Source="@6" Target="@9" Category="CodeSchema_Calls" Bounds="204.495423359844,-852.09577179362,36.5057314348568,185.214518644366" Weight="1" />
+    <Link Source="@7" Target="@10" Category="CodeSchema_Calls" Bounds="129.77328720507,-796.145091552734,6.41647889895097,209.033067672028" Weight="1" />
+    <Link Source="@7" Target="@9" Category="CodeSchema_Calls" Bounds="134.978296168065,-796.145091552734,56.0478273199078,129.831033207592" Weight="1" />
+    <Link Source="@8" Target="@9" Category="CodeSchema_Calls" Bounds="225.574172563173,-823.217174072266,222.601463935976,159.915040249065" Weight="1" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Calls" Label="Calls" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Called By" OutgoingActionLabel="Calls" />
+    <Category Id="CodeSchema_Member" Label="Member" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="Members" />
+    <Category Id="CodeSchema_Method" Label="Method" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="Methods" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsHideBySignature" Label="Hides By Signature" Description="Flag to indicate the method hides another method of the same signature" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="Is Private" Description="Flag to indicate the scope is Private" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="Is Public" Description="Flag to indicate the scope is Public" DataType="System.Boolean" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Language" Label="Language" Description="Language" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="Start Line Number" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="Weight" Label="Weight" Description="Weight" DataType="System.Double" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="Member" Label="Member" ValueType="System.Object" />
+    <Name Id="Name" Label="Name" ValueType="System.String" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Parameter" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(3cbac22b-f068-47f0-b3c6-8f080c7f448c.OutputPathUri)" />
+    <Alias n="2" Id="Namespace=_10FanPWM" />
+    <Alias n="3" Id="Type=Form1" />
+    <Alias n="4" Uri="Assembly=$(FxRootUri)/v2.0.50727/mscorlib.dll" />
+    <Alias n="5" Id="OverloadingParameters=[(@4 Namespace=System Type=Object),(@4 Namespace=System Type=EventArgs)]" />
+    <Alias n="6" Id="(@1 @2 @3 Member=(Name=btnGo_Click @5))" />
+    <Alias n="7" Id="(@1 @2 @3 Member=(Name=btnResetAuto_Click @5))" />
+    <Alias n="8" Id="(@1 @2 @3 Member=(Name=btnStop_Click @5))" />
+    <Alias n="9" Id="(@1 @2 @3 Member=(Name=cheater @5))" />
+    <Alias n="10" Id="(@1 @2 @3 Member=(Name=set_Fanspeed @5))" />
+    <Alias n="11" Id="(@1 @2 @3 Member=(Name=Timer1_Tick @5))" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="True">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Target.HasCategory('CodeSchema_Field') And HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="3cbac22b-f068-47f0-b3c6-8f080c7f448c.OutputPathUri" Value="file:///C:/Users/JEmig/documents/visual studio 2013/Projects/10FanPWM/10FanPWM/bin/Debug/10FanPWM.exe" />
+    <Path Id="FxRootUri" Value="file:///C:/Windows/Microsoft.NET/Framework" />
+  </Paths>
+</DirectedGraph>
